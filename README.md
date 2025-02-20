@@ -18,7 +18,7 @@ For inspiration and additional fractal resources, visit [Fractal Garden](https:/
 
 ## 🖼️ Preview
 ### **Dragon Curve** 🐉
-![Dragon Curve](images/barnsley.png)
+![Dragon Curve](images/dragon.png)
 
 ### **Koch Snowflake** ❄️
 ![Koch Snowflake](images/snowflake.png)
