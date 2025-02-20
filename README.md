@@ -20,8 +20,8 @@ For inspiration and additional fractal resources, visit [Fractal Garden](https:/
 ### **Dragon Curve** 🐉
 ![Dragon Curve](images/dragon.png)
 
-### **Koch Snowflake** ❄️
-![Koch Snowflake](images/snowflake.png)
+### **Mandelbrot Set** 🌌
+![Mandelbrot Set](images/mandelbrot.png)
 
 ---
 
